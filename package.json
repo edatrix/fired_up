@@ -1,0 +1,32 @@
+{
+  "name": "fired_up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "handlebars": "^4.0.5",
+    "handlebars-template-loader": "^0.7.0",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0"
+  },
+  "engines": {
+    "node": ">=6.0",
+    "npm": ">=3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edatrix/fired_up.git"
+  },
+  "keywords": [],
+  "author": "lauren spath luhring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edatrix/fired_up/issues"
+  },
+  "homepage": "https://github.com/edatrix/fired_up#readme"
+}
